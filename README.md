@@ -22,12 +22,12 @@ This is a simple e-commerce website built using HTML, CSS, and JavaScript. The s
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/ecommerce-website.git
+   git clone https://github.com/harshithagowdamr/E-commerce-website-using-html-css-js.git
    ```
 
 2. **Navigate to the Project Directory:**
    ```bash
-   cd ecommerce-website
+   cd E-commerce-website-using-html-css-js
    ```
 
 3. **Open the Project:**
