@@ -43,8 +43,6 @@ This is a simple e-commerce website built using HTML, CSS, and JavaScript. The s
 
 For any questions or feedback, please contact:
 
-- **GitHub Profile:** [Harshitha M R](https://github.com/yourusername)
+- **GitHub Profile:** [Harshitha M R](https://github.com/harshithagowdamr)
 
----
 
-Feel free to modify this template based on your project's specifics and requirements.
